@@ -10,7 +10,7 @@ You have the customer's data which include :
 - Yearly amount spent by them.
 
 
-# HELPER FUNCTIONS
+## HELPER FUNCTIONS
 
 To read a csv file and convert into numpy array, you can use genfromtxt of the numpy package.
 For Example:
